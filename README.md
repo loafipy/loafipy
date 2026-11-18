@@ -1,3 +1,3 @@
 <div align="center">ㅤ
 
-<img width="1300" height="900" src="https://i.pinimg.com/736x/3d/33/4b/3d334b382f7c0b322fba8859c8ea602a.jpg" />
+<img width="1300" height="430" src="https://i.pinimg.com/1200x/1f/04/8c/1f048c788289f7aceea96e29732b362c.jpg" />
